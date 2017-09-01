@@ -1,0 +1,10 @@
+#avatar{
+    border-radius:50%;
+    border: 2px solid #eee;
+    margin-top:-50px;
+}
+
+.reveal li{
+    margin-top:15px;
+    font-size:80%;
+}
