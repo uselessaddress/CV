@@ -1365,7 +1365,9 @@ body {
 @media screen and (max-width: 600px) {
   .reveal .speaker-notes {
     width: 90%;
-    left: 5%; } }
+    left: 5%; } 
+  
+  }
 
 /*********************************************
  * ZOOM PLUGIN
